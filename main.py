@@ -3,7 +3,7 @@ from totalsegmentator.python_api import totalsegmentator, class_map
 from niigz_to_obj import convert_nii_to_obj
 import argparse
 import os
-licensenum = 'aca_JY39RTTVQPDJ4G'
+licensenum = 'Your licensce here'
 
 
 # pipeline is segment, split masks, convert to iso, iso to obj
